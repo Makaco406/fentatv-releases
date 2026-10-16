@@ -23,8 +23,7 @@ Abre la última versión en [Releases](../../releases/latest), descarga `FentaTV
 ## Primer arranque
 
 1. Elige **Móvil** o **TV / Android TV** y acepta el aviso.
-2. Pide tu clave gratuita de TMDB en `themoviedb.org/settings/api` y escríbela en la pantalla «Claves de API». En la tele es más cómodo teclearla con la app de mando del móvil (Google TV o Fire TV).
-3. La clave de OMDb es opcional.
+2. Elige cómo quieres reproducir (Automático o Manual) y el idioma de audio. Desde la versión 1.0.1 no hace falta escribir ninguna clave.
 
 ## Actualizar
 
